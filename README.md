@@ -1,2 +1,2 @@
-# aprendendo-a-desenhar
+# Aprendendo a desenhar
 Tópicos essenciais para desenvolver a habilidade de desenhar.
